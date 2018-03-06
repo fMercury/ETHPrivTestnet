@@ -3,7 +3,7 @@
 ## Install
 
 Install go client from https://golang.org/doc/install
-
+(https://tecadmin.net/install-go-on-ubuntu/#)
 ```sh
 git clone https://github.com/fMercury/ETHPrivTestnet
 cd go-ethereum && make geth
