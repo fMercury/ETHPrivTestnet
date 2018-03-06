@@ -5,7 +5,7 @@
 Install go client from https://golang.org/doc/install
 
 ```sh
-git clone https://github.com/AugustoL/ETHPrivTestnet
+git clone https://github.com/fMercury/ETHPrivTestnet
 cd go-ethereum && make geth
 cd .. && npm install
 ```
